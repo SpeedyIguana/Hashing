@@ -1,6 +1,6 @@
 # Hashing
 
-This repo shows one way of achieving the Hashing/Hash Tables using open-addressing and quadratic probing. Learnt from part of the programming project for CS610 or CS435 with Alex G at N.J.I.T.
+This repo shows one way of achieving the Hashing/Hash Tables using open-addressing and quadratic probing.
 
 ## Instructions
 
